@@ -1,0 +1,14 @@
+/* p {
+    color: red;
+    text-align: center;
+  } */
+
+  body {
+    background-image: url("logo.png");
+  }
+
+  p {
+    border: black 1px solid;
+    height: 100px;
+    /* Los navegadores no hacen caso de esta propiedad */
+  }
